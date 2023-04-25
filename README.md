@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Ferreira 👋
 
 #### 🔭 Atualmente estou focado na resolução de problemas, e na criação de alternativas para facilitar o dia a dia.
-#### 🌱 Estou em constante evolução para aprimorar as tecnologias que conheço, e buscando aprender novas tecnologias.
+#### 🌱 Estou em constante evolução para aprimorar as tecnologias que utilizo, e buscando aprender novas tecnologias.
 
 
 <div>
