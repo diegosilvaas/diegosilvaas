@@ -11,7 +11,7 @@
 </div>
     
             
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegosilvaas=&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=385=)](https://git.io/streak-stats)           
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegosilvaas=&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=385=)](https://git.io/streak-stats)            -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosilvaas&count_private=true&show_icons=true&theme=dark) -->
 
 
